@@ -1,0 +1,51 @@
+[
+    {
+        "_id": 1,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2208/gallery/in-galaxy-buds2-pro-r510-sm-r510nzaainu-533192316?$1300_1038_PNG$",
+        "name": "Galaxy Buds2 Pro",
+        "rating": 4,
+        "newPrice": 16900,
+        "oldPrice": 15000
+    },
+    {
+        "_id": 2,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x800nzaainu/gallery/in-galaxy-tab-s8-plus-wifi-x800-sm-x800nzaainu-thumb-534250086?$216_216_PNG$",
+        "name": "Galaxy Tab S8+ (Wi-Fi)",
+        "rating": 3.5,
+        "newPrice": 69000,
+        "oldPrice": 74000
+    },
+    {
+        "_id": 3,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x205nzaeinu/gallery/in-galaxy-a8-sm-x205-408873-sm-x205nzaeinu-thumb-530636108?$172_172_PNG$",
+        "name": "Galaxy Tab A8 (LTE-4GB)",
+        "rating": 3.5,
+        "newPrice": 22999,
+        "oldPrice": 23999
+    },
+    {
+        "_id": 4,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ua43bu8570ulxl/gallery/in-crystaluhd-bu8500-ua43bu8570ulxl-532174153?$684_547_PNG$",
+        "name": "Crystal 4K UHD Smart TV",
+        "rating": 3,
+        "newPrice": 54500,
+        "oldPrice": 59000
+    },
+    {
+        "_id": 5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OqpRumSzR5kMR6cDQvADwKmhfGaqzZjumTgVw_luCJVGs2MBYn37ABH6Prgoo5mhzIk&usqp=CAU",
+        "name": "Galaxy F23",
+        "rating": 3.5,
+        "newPrice": 17990,
+        "oldPrice": 19000
+    },
+    {
+        "_id": 6,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/ce1041dsb3-tl/gallery/in-ce1041dsb3-convection-microwave--28-l-ce1041dsb3-tl-thumb-532582808?$252_252_PNG$",
+        "name": "28L Microwave Oven",
+        "rating": 3.5,
+        "newPrice": 12900,
+        "oldPrice": 13500
+    }
+
+]

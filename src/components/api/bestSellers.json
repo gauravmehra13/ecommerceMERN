@@ -1,0 +1,92 @@
+[
+    {
+        "_id": 1,
+        "name": "Galaxy Book3 360 i7",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2302/gallery/in-galaxy-book3-360-15-6-inch-with-s-pen-np750-447653-np750qfg-ka3in-thumb-534939535?$172_172_PNG$",
+        "demand": "high",
+        "rating": 4.5,
+        "newPrice": 120000,
+        "oldPrice": 125000,
+        "category": "Mac"
+    },
+    {
+        "_id": 2,
+        "name": "Galaxy Z Fold4",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2208/gallery/in-galaxy-z-fold4-f936-sm-f936bzkdinu-thumb-533084151?$216_216_PNG$",
+        "demand": "standard",
+        "rating": 4,
+        "newPrice": 140000,
+        "oldPrice": 145000,
+        "category": "iPhone"
+    },
+    {
+        "_id": 3,
+        "name": "Galaxy Z Fold3 5G",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-fold3-f926-5g-sm-f926bzkdinu-thumb-474118710?$216_216_PNG$",
+        "demand": "high",
+        "rating": 4.5,
+        "newPrice": 110000,
+        "oldPrice": 112000,
+        "category": "iPhone"
+    },
+    {
+        "_id": 4,
+        "name": "Galaxy Watch5 Bluetooth (44mm)",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2208/gallery/in-galaxy-watch5-44mm-sm-r910nzaainu-thumb-533186700?$172_172_PNG$",
+        "demand": "high",
+        "rating": 4,
+        "newPrice": 29900,
+        "oldPrice": 31000,
+        "category": "Watch"
+    },
+    {
+        "_id": 5,
+        "name": "Galaxy Book2 Pro 360",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/np930qed-kh1in/gallery/in-galaxy-book2-pro-360-13inch-np930qeda-433741-np930qed-kh1in-thumb-533583184?$172_172_PNG$",
+        "demand": "high",
+        "rating": 4.5,
+        "newPrice": 111990,
+        "oldPrice": 120000,
+        "category": "Mac"
+    },
+    {
+        "_id": 6,
+        "name": "Galaxy Watch5 LTE (44mm)",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2208/gallery/in-galaxy-watch5-44mm-431015-sm-r915fzbainu-thumb-533187322?$172_172_PNG$",
+        "demand": "standard",
+        "rating": 4,
+        "newPrice": 30900,
+        "oldPrice": 35900,
+        "category": "Watch"
+    },
+    {
+        "_id": 7,
+        "name": "Galaxy Buds2 Pro",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2208/gallery/in-galaxy-buds2-pro-r510-sm-r510nlvainu-533192230?$1300_1038_PNG$",
+        "demand": "high",
+        "rating": 4.5,
+        "newPrice": 26900,
+        "oldPrice": 30000,
+        "category": "Accessories"
+    },
+    {
+        "_id": 8,
+        "name": "1m 08cm (43-inch) AUE65 Crystal 4K UHD Smart TV",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/qa43q60baklxl/gallery/in-qled-q60b-qa43q60baklxl-531284436?$684_547_PNG$",
+        "demand": "standard",
+        "rating": 3.5,
+        "newPrice": 149000,
+        "oldPrice": 151030,
+        "category": "Others"
+    },
+    {
+        "_id": 9,
+        "name": "Galaxy Tab S8 Ultra (Wi-Fi)",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-x900nzaeinu/gallery/in-galaxy-tab-s8-ultra-wifi-x900-sm-x900nzaeinu-thumb-534251367?$216_216_PNG$",
+        "demand": "high",
+        "rating": 4,
+        "newPrice": 81900,
+        "oldPrice": 90500,
+        "category": "iPad"
+    }
+]

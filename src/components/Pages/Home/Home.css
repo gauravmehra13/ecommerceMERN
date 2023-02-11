@@ -1,0 +1,39 @@
+.banner {
+  position: relative;
+  margin: auto;
+  max-width: 80rem;
+  max-height: fit-content;
+}
+
+#banner-video {
+  max-width: 80rem;
+  max-height: 40rem;
+  filter: brightness(90%);
+  border-radius: 10px;
+  z-index: 1;
+  visibility: hidden;
+}
+
+.hr-one {
+  color: rgb(156, 161, 159);
+}
+
+.best-sellers {
+  margin: 2rem auto;
+  max-width: 80rem;
+}
+
+.product-overview {
+  position: relative;
+  margin: 7rem auto;
+  max-width: 90rem;
+  height: 30rem;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1000px) {
+  #banner-video {
+    max-width: 28rem;
+    margin: 2rem 1rem 12rem;
+  }
+}

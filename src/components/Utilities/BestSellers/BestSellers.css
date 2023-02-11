@@ -1,0 +1,133 @@
+.best-sellers-heading {
+  margin-bottom: 1.5rem;
+}
+
+.products-container {
+  display: flex;
+  /* justify-content: space-between; */
+  justify-content: space-evenly;
+  flex-flow: row wrap;
+}
+
+#toggle-group {
+  box-shadow: 0 0 10px 2px rgb(236, 215, 215);
+}
+
+.btn-filter {
+  text-shadow: none;
+}
+
+.product-card {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-flow: column;
+  padding: 1.3rem 1rem;
+  width: 14rem;
+  height: 22rem;
+  border-radius: 5px;
+  box-shadow: 0 0 5px 1px rgb(238, 237, 237);
+  margin: 1.5rem;
+  box-sizing: border-box;
+}
+
+.product-card:hover {
+  box-shadow: 0 0 15px 5px rgb(219, 216, 216);
+  transition: all 0.3s linear 0.1s;
+  cursor: pointer;
+}
+
+.btn-to-cart {
+  position: absolute;
+  bottom: 10px;
+  color: #ffffff;
+  border: none;
+  /* background: transparent; */
+  background: #936b6a;
+  backdrop-filter: blur(100px);
+  /* z-index: -1; */
+  /* visibility: hidden; */
+}
+
+.product-demand-label {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: #ffffff;
+  background: #df1818;
+  padding: 1px 5px;
+  font-size: 0.7rem;
+}
+
+.product-image {
+  width: 10rem;
+  height: 10rem;
+}
+
+/* Product Prices and Ratings */
+
+.product-prices-and-rating {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 60px;
+}
+
+.best-product-rating {
+  position: absolute;
+  bottom: 40px;
+}
+
+.best-product-prices {
+  position: absolute;
+  bottom: 10px;
+}
+
+.new-cost,
+.old-cost {
+  margin: 0 3px;
+}
+
+.new-cost {
+  color: #da5e65;
+  font-weight: 600;
+}
+
+.old-cost {
+  /* margin: 0 10px; */
+  color: rgb(165, 163, 163);
+  text-decoration: line-through;
+}
+
+.load-more {
+  display: flex;
+  justify-content: center;
+}
+
+.load-more-btn {
+  display: flex;
+  align-items: center;
+  margin: 2rem 3rem 4rem;
+  padding: 0.5rem;
+  border: 1px solid rgb(208, 205, 205);
+  border-radius: 5px;
+  color: grey;
+  background: #ffffff;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.5s;
+  width: fit-content;
+  z-index: 2;
+}
+
+.load-more-btn img {
+  margin: 0 0.5rem;
+  width: 20px;
+  height: 20px;
+}
+
+.load-more-btn:hover {
+  /* background-color: antiquewhite; */
+  box-shadow: 0 0 10px 5px #f7dcdc;
+}
